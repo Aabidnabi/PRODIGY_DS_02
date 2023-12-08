@@ -10,7 +10,7 @@ The Titanic dataset used in this project is sourced from Kaggle and can be acces
 To run the analysis and explore the dataset, follow these steps:
 
 # Clone the Repository:
-git clone https://github.com/Aabidnabi/PRODIGY_DS_02.git
+git clone https://github.com/Aabidnabi/PRODIGY_DS_02.git <br>
 cd titanic-dataset-exploration
 
 # Install Dependencies:
