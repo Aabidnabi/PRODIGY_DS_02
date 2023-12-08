@@ -6,12 +6,13 @@ This project focuses on performing data cleaning and exploratory data analysis (
 # Dataset
 The Titanic dataset used in this project is sourced from Kaggle and can be accessed here. It consists of various features related to passengers aboard the Titanic, including information such as age, sex, ticket class, and survival status.
 
-#Getting Started
+# Getting Started
 To run the analysis and explore the dataset, follow these steps:
 
-#Clone the Repository:
-git clone https://github.com/Aabidnabi/PRODIGY_DS_02/new/master?readme=1
+# Clone the Repository:
+git clone https://github.com/Aabidnabi/PRODIGY_DS_02.git
 cd titanic-dataset-exploration
+
 # Install Dependencies:
 pip install -r requirements.txt
 # Download the Dataset:
